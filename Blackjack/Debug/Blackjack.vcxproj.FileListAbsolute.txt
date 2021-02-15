@@ -1,0 +1,2 @@
+C:\Users\koffi\source\repos\Blackjack\Debug\Blackjack.exe
+C:\Users\koffi\source\repos\Blackjack\Debug\Blackjack.pdb
